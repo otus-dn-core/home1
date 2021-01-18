@@ -1,0 +1,19 @@
+{
+  "name": "home1",
+  "version": "1.0.0",
+  "description": "Folder structure in Node.js",
+  "main": "stats.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/otus-dn-core/home1.git"
+  },
+  "author": "Vyacheslav Melnikov",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/otus-dn-core/home1/issues"
+  },
+  "homepage": "https://github.com/otus-dn-core/home1#readme"
+}
